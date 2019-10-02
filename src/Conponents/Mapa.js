@@ -3,7 +3,7 @@ import GoogleMapReact from 'google-map-react';
 
 
 //Styles 
-//import './Style/Marker.css';
+
 
 //icono Marker
 import Icono from './icono';
