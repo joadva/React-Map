@@ -89,8 +89,8 @@ class Mapa extends Component {
                     />
 
                     <Marker3
-                        lat={17.998450}
-                        lng={-92.932827}
+                        lat={this.state.lat}
+                        lng={this.state.lng}
 
                     />
 
